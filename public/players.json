@@ -1,0 +1,98 @@
+[
+  {
+    "playerImage": "https://i.ibb.co.com/kV8YgYqj/sakib.webp",
+    "playerName": "Shakib Al Hasan",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "rating": 9.5,
+    "price": 90000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/1Y7Hv2zM/tamim.webp",
+    "playerName": "Tamim Iqbal",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "rating": 9.2,
+    "price": 85000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/Q3M5WpQY/musfiq.webp",
+    "playerName": "Mushfiqur Rahim",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "rating": 9.0,
+    "price": 80000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/2Yvs2HhH/riyadd.webp",
+    "playerName": "Mahmudullah Riyad",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "rating": 8.8,
+    "price": 75000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/21HndWhN/riyad.webp",
+    "playerName": "Litton Das",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "rating": 8.7,
+    "price": 72000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/4gZpKG8N/arif.jpg",
+    "playerName": "Afif Hossain",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "rating": 8.5,
+    "price": 70000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/1JjQhnD6/miraz.jpg",
+    "playerName": "Mehidy Hasan Miraz",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "rating": 8.6,
+    "price": 71000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/9mK770Rp/taskin.jpg",
+    "playerName": "Taskin Ahmed",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 8.4,
+    "price": 68000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/5g612Gr0/mustafiz.jpg",
+    "playerName": "Mustafizur Rahman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "rating": 8.9,
+    "price": 78000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/5Xtvcf5v/rusel.jpg",
+    "playerName": "Andre Russell",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "rating": 9.3,
+    "price": 88000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/G3M0Mr5c/faf.jpg",
+    "playerName": "Faf du Plessis",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "rating": 9.1,
+    "price": 83000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/gFcj6LxD/sunil.jpg",
+    "playerName": "Sunil Narine",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "rating": 9.0,
+    "price": 82000
+  }
+]
